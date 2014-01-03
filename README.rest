@@ -1,0 +1,10 @@
+suday-work-at-java
+==================
+
+ライブラリいろいろ試す場所
+
+* Google Guice
+* Metrics
+* Jackson
+* MapDB
+* LevelDBJNI
